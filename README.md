@@ -4,13 +4,7 @@ This repository integrates the **libcypher-parser** library, a powerful C-based 
 
 ## About Libcypher Parser
 
-This project leverages the excellent work done by the contributors of the libcypher-parser:
-
-- [Chris Leishman](https://github.com/cleishm)
-- [Louis-Pierre Beaumont](https://github.com/Loupi)
-- [Jeff Lovitz](https://github.com/jeffreylovitz)
-- [Dvir Dukhan](https://github.com/DvirDukhan)
-
+This project leverages the excellent work done by the contributors of the libcypher-parser.
 For more details on the original parser, please visit the [libcypher-parser GitHub repository](https://github.com/cleishm/libcypher-parser).
 
 ## Getting Started
